@@ -1,0 +1,9 @@
+# Node Modules for both client and server
+/React1/node_modules/
+/ReactContextHooks/node_modules/
+/ReactModalAccordionDropdown/node_modules/
+
+# Environment variables
+/React1/.env/
+/ReactContextHooks/.env/
+/ReactModalAccordionDropdown/.env/
